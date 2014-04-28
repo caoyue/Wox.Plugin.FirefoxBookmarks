@@ -1,0 +1,11 @@
+﻿{
+    "ID":"60B1FC180F99A0AF648C8807327E7C57",
+    "ActionKeyword":"ff",
+    "Name":"FrefoxBookmarks",
+    "Description":"firefox bookmarks search",
+    "Author":"caoyue",
+    "Version":"1.0",
+    "Language":"csharp",
+    "Website":"https://github.com/caoyue/Wox.Plugin.FirefoxBookmarks",
+    "ExecuteFileName":"Wox.Plugin.FirefoxBookmarks.dll"
+}
