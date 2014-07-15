@@ -10,3 +10,5 @@ Wox.Plugin.FirefoxBookmarks
     <ProfilePath>your firefox profile absolute path</ProfilePath>
     ```
 
+Update: Wox 已经集成 Firefox 书签功能，不再更新~
+
